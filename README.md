@@ -11,4 +11,4 @@ You need a basic understandinh of **html, javascript, css** and [progressive web
 
 ### [Getting started]()
 
-To learn how to [show that your progresive web app is offline or back online ](https://pwafire.org/developer/codelabs/pwa-offline-js), take this [codelab here](https://pwafire.org/developer/codelabs/pwa-offline-js) curated by PWA Fire Developers. Happy learnining!
+To learn how to [show that your progresive web app is offline or back online,](https://pwafire.org/developer/codelabs/pwa-offline-js) take this [codelab here](https://pwafire.org/developer/codelabs/pwa-offline-js) curated by PWA Fire Developers. Happy learnining!
