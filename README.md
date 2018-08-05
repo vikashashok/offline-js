@@ -7,4 +7,4 @@ Learn how to add an offline detector on your progressive web app. We have two fe
     
 ### [What is required?]()
 
-You need a basic understandinh of html, javascriot and css and progressive web apps.
+You need a basic understandinh of **html, javascript, css** and [progressive web apps.](https://pwafire.org/developer/)
